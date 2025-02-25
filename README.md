@@ -1,4 +1,4 @@
-**Outline
+**Outline**
 Lab01 - Combinational circuit
 Lab02 - Sequential circuit
 Lab03 - Pattern
