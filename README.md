@@ -1,5 +1,5 @@
-**Outline**<br>
-* Lab01 - Combinational circuit<br>
+## Outline<br>
+* [Lab01](#Lab01) - Combinational circuit<br>
 * Lab02 - Sequential circuit<br>
 * Lab03 - Pattern<br>
 * Lab04 - CNN (AI Chip)<br>
